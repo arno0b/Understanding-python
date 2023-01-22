@@ -1,0 +1,34 @@
+2023-01-23 00:36:47,179 DEBUG Start of the employee program
+2023-01-23 00:36:47,180 INFO End of the employee program
+2023-01-23 00:36:47,180 DEBUG ############
+2023-01-23 00:37:12,709 DEBUG Start of the employee program
+2023-01-23 00:37:12,710 INFO End of the employee program
+2023-01-23 00:37:12,710 DEBUG ############
+2023-01-23 00:41:40,443 DEBUG Start of the employee program
+2023-01-23 00:41:40,443 INFO End of the employee program
+2023-01-23 00:41:40,443 DEBUG ############
+2023-01-23 00:45:49,923 __main__ DEBUG Start of the employee program
+2023-01-23 00:45:49,924 __main__ INFO End of the employee program
+2023-01-23 00:45:49,924 __main__ DEBUG ############
+2023-01-23 00:45:51,459 __main__ DEBUG Start of the employee program
+2023-01-23 00:45:51,460 __main__ INFO End of the employee program
+2023-01-23 00:45:51,460 __main__ DEBUG ############
+2023-01-23 00:45:52,866 __main__ DEBUG Start of the employee program
+2023-01-23 00:45:52,867 __main__ INFO End of the employee program
+2023-01-23 00:45:52,867 __main__ DEBUG ############
+2023-01-23 00:55:48,080 __main__ DEBUG Start of the employee program
+2023-01-23 00:55:48,080 __main__ CRITICAL Employee info already exists in the database
+2023-01-23 00:55:48,080 __main__ INFO End of the employee program
+2023-01-23 00:55:48,080 __main__ DEBUG ############
+2023-01-23 00:55:49,651 __main__ DEBUG Start of the employee program
+2023-01-23 00:55:49,652 __main__ CRITICAL Employee info already exists in the database
+2023-01-23 00:55:49,652 __main__ INFO End of the employee program
+2023-01-23 00:55:49,652 __main__ DEBUG ############
+2023-01-23 00:55:50,576 __main__ DEBUG Start of the employee program
+2023-01-23 00:55:50,576 __main__ CRITICAL Employee info already exists in the database
+2023-01-23 00:55:50,576 __main__ INFO End of the employee program
+2023-01-23 00:55:50,576 __main__ DEBUG ############
+2023-01-23 00:55:51,224 __main__ DEBUG Start of the employee program
+2023-01-23 00:55:51,224 __main__ CRITICAL Employee info already exists in the database
+2023-01-23 00:55:51,224 __main__ INFO End of the employee program
+2023-01-23 00:55:51,224 __main__ DEBUG ############

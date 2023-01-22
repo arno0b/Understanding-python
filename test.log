@@ -1,0 +1,6 @@
+DEBUG:root:30
+INFO:root:10
+WARNING:root:200
+CRITICAL:root:2.0
+DEBUG:root:check for name alphabet
+DEBUG:root:check for name alphabet
